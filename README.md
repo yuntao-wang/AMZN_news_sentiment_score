@@ -1,2 +1,4 @@
 # AMZN_Twitter
-twitter about AMZN
+use BeautifulSoup to do web-scrapping
+and NLTK to get sentiment score from news(Bloomberg, twitter)
+about AMZN
